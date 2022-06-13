@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2021-07-15 07:59:00-0400
+date: 2022-06-01 07:59:00-0400
 inline: true
 ---
 
-I am awarded a GHC Student Scholarship!
+I am invited to serve as a PC reviewer for ICDM'22.
+
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->

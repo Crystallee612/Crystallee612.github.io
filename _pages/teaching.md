@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: assets/pdf/Xiaoting_Li_CV.pdf
+title: CV
 nav: true
 nav_order: 2
 ---
