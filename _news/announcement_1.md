@@ -5,5 +5,3 @@ inline: true
 ---
 
 I am invited to serve as a PC reviewer for AAAI'23.
-
-<!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
