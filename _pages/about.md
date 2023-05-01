@@ -20,7 +20,7 @@ Email: xiaotili@visa.com
 
 <a href='https://www.linkedin.com/in/xiaotingli-0612/?locale=en_US'>Linkedin</a>&nbsp;&nbsp;&nbsp;<a href='https://scholar.google.com/citations?user=wlf7M-cAAAAJ&hl=en'>Google Scholar</a>
 
-I am a staff research scientist at [Visa Research](https://www.visa.co.cr/content/VISA/usa/englishlanguagemaster/en_US/home/about-visa/visa-research/xiaoting-li.html). I received my Ph.D. in Information Sciences and Technology at Pennsylvania State Univerity in 2022, and my B.S. in Information Security from University of Electronic Sciences and Tehcnology of China in 2017. My research interests intersect Deep Learning, Graph Representation Learning and Software Security. Specifically, I have been extensively studying the robustness of different Deep Learning systems and exploring the applicabilities of adversarial machine learning in security-cirtical scenarios. 
+I am a staff research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). I received my Ph.D. in Information Sciences and Technology at Pennsylvania State Univerity in 2022, and my B.S. in Information Security from University of Electronic Sciences and Tehcnology of China in 2017. My research interests intersect Deep Learning, Graph Representation Learning and Software Security. Specifically, I have been extensively studying the robustness of different Deep Learning systems and exploring the applicabilities of adversarial machine learning in security-cirtical scenarios. 
 
 <!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
