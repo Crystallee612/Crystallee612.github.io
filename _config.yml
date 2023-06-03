@@ -240,8 +240,8 @@ filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, select
 imagemagick:
   enabled: true
   widths:
-    - 480
-    - 800
+    - 380
+    - 600
     - 1400
   input_directories:
     - assets/img/
